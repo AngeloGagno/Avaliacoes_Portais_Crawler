@@ -1,0 +1,193 @@
+,accommodation_id,accommodation_name,airbnb_account_id,accommodation_link,channel_name,local_status,publishment_status,alert,sync_alert,rejection_alert,warning_alert,review_count,review_value,cleanliness_value,location_value,truthfulness_value,checkin_value,communication_value
+0,302726,A306 (Zona2),573192868,airbnb.com.br/rooms/1152158657234688324,airbnb,True,active,2,,False,,13,4.5,4.4,4.8,4.6,4.7,4.6
+1,303438,A923 (Zona2),573192722,airbnb.com.br/rooms/1410160615069249851,airbnb,True,error,2,,True,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2,303660,PM203 (Zona1),66039372,airbnb.com.br/rooms/30067041,airbnb,True,active,0,,False,,63,4.6,4.7,5.0,4.7,4.7,4.7
+3,303870,J801 (Zona1),66039372,airbnb.com.br/rooms/38044075,airbnb,True,active,0,,False,,31,4.7,4.7,4.9,4.7,4.6,4.7
+4,303873,SL1001 (Zona2),573192868,airbnb.com.br/rooms/1152161662989994169,airbnb,True,active,0,,False,,11,4.5,4.7,4.9,4.7,4.3,4.6
+5,303955,BT201 (Zona1),573192722,airbnb.com.br/rooms/1150793577725794950,airbnb,True,active,0,,False,,4,5,5,4.5,5,4.8,5
+6,304510,BPremium T5 0406.4 (Barra),573192722,airbnb.com.br/rooms/1150780573436035932,airbnb,True,active,0,,False,,2,3,3,4,3,3,3
+7,304513,"Suite, pool and gym | BPremium T2",1381764,airbnb.com.br/rooms/47920760,airbnb,True,active,0,,False,,70,4.6,4.7,4.9,4.6,4.7,4.5
+8,305210,RPP913 (Zona2),1381764,airbnb.com.br/rooms/47919850,airbnb,True,active,1,,False,,34,4.7,4.7,4.8,4.8,4.6,4.5
+9,306940,NSC1006 (Zona4),573192722,airbnb.com.br/rooms/1150779601864528041,airbnb,True,active,0,,False,,11,4.8,4.8,4.9,4.7,4.6,4.7
+10,310379,BR1033 (Zona4),573192868,airbnb.com.br/rooms/1259584908396182021,airbnb,True,active,0,,False,,7,4.9,4.9,5,5,4.9,4.9
+11,319247,AC402 (Zona1),66039372,airbnb.com.br/rooms/47270338,airbnb,True,active,0,,False,,63,4.5,4.5,4.9,4.7,4.7,4.7
+12,319854,PI903 (Zona4),573192722,airbnb.com.br/rooms/1150778193347399133,airbnb,True,active,1,,False,,12,4.3,4.8,4.7,4.7,4.3,4.4
+13,319864,BR1009 (Zona4),573192722,airbnb.com.br/rooms/1150779267155669692,airbnb,True,active,0,,False,,8,4.6,4.6,4.9,4.9,5,4.6
+14,320228,PI401 (Zona4),1381764,airbnb.com.br/rooms/285363,airbnb,True,error,2,,True,,133,4.5,4.7,4.5,4.7,4.8,4.8
+15,320305,MQC502 (Zona1),573192868,airbnb.com.br/rooms/1260134713093754123,airbnb,True,active,1,,False,,13,4.5,4.5,5,4.4,4.5,4.7
+16,320307,PJ204 (Zona4),1381764,airbnb.com.br/rooms/1063491,airbnb,True,active,1,,False,,182,4.7,4.6,4.7,4.8,4.8,4.8
+17,320613,GUC6 (Zona1),573192868,airbnb.com.br/rooms/1152162775668925911,airbnb,True,active,0,,False,,3,3.3,4.7,4.3,4.7,3.3,3.3
+18,320725,BC706 (Zona2),573192868,airbnb.com.br/rooms/1152160428949076454,airbnb,True,active,1,,False,,14,4.4,4.9,5,4.6,4.4,4.5
+19,320730,BUZ215 (ZonaX),659754543,airbnb.com.br/rooms/1289105954505327753,airbnb,True,active,0,,False,,1,4,4,4,4,4,3
+20,320879,BR403 (Zona3),573192868,airbnb.com.br/rooms/1260106427122847221,airbnb,True,active,0,,False,,8,4.6,4.8,4.6,4.4,4.6,4.6
+21,320888,BT101 (Zona1),66039372,airbnb.com.br/rooms/54054232,airbnb,True,active,0,,False,,2,3,3,5,4,4.5,3
+22,321272,GU301 (Zona1),573192868,airbnb.com.br/rooms/1260121971494494327,airbnb,True,active,1,,False,,7,4,4,4.4,4.1,4.1,4.3
+23,321274,RDL1112 (Zona4),573192722,airbnb.com.br/rooms/1150789260788841691,airbnb,True,active,1,,False,,6,4.2,4.8,4.8,3.8,4.5,4
+24,321275,PM402 (Zona1),573192868,airbnb.com.br/rooms/1260165685801938360,airbnb,True,error,2,,True,,14,3.9,4.6,4.6,3.8,4.1,4.2
+25,321276,RPP103 (Zona2),592964680,airbnb.com.br/rooms/1237087964208473388,airbnb,True,active,0,,False,,13,4.2,4.5,4.9,4.5,4.9,4.8
+26,321363,DF219 (Zona3),592964680,airbnb.com.br/rooms/1237080290443834735,airbnb,True,active,0,,False,,14,4.7,4.7,5,4.6,4.6,4.6
+27,321381,VP604 (Zona1),66039372,airbnb.com.br/rooms/47269507,airbnb,True,active,0,,False,,14,4.2,4.7,4.9,4.4,5,5
+28,321390,AS1602 (Barra),1381764,airbnb.com.br/rooms/42358612,airbnb,True,active,1,,False,,64,4.4,4.5,4.7,4.4,4.6,4.4
+29,321391,VP305 (Zona1),66039372,airbnb.com.br/rooms/47267597,airbnb,True,active,0,,False,,98,4.6,4.6,4.9,4.7,4.8,4.7
+30,322373,BUZ117 (ZonaX),659754543,airbnb.com.br/rooms/1289129005473282923,airbnb,True,active,0,,False,,3,4.7,4.3,5,4.7,4,5
+31,322582,NSC902 (Zona3),592964680,airbnb.com.br/rooms/1237072683862132665,airbnb,True,active,0,,False,,11,4.5,4.5,4.7,4.9,4.7,4.5
+32,322588,VP802 (Zona1),1381764,airbnb.com.br/rooms/38580242,airbnb,True,active,0,,False,,81,4.6,4.7,4.9,4.8,4.8,4.6
+33,323042,FCO501 (Zona2),66039372,airbnb.com.br/rooms/47267624,airbnb,True,active,1,,False,,52,4.6,4.8,4.6,4.7,4.7,4.7
+34,323560,JN505 (Zona2),1381764,airbnb.com.br/rooms/635656463389592476,airbnb,True,active,0,,False,,37,4.7,4.8,5,5.0,4.8,4.7
+35,323945,NSC601 (Zona2),573192722,airbnb.com.br/rooms/1150778998142558156,airbnb,True,active,0,,False,,17,4.9,5,5,4.9,4.8,4.9
+36,328164,BC101 (Zona2),1381764,airbnb.com.br/rooms/47919819,airbnb,True,active,0,,False,,9,4.3,4.1,4.7,4.8,4.7,4.3
+37,329023,NSC501 (Zona2),573192722,airbnb.com.br/rooms/1150790696005286776,airbnb,True,active,0,,False,,27,4.7,4.9,5.0,4.7,5.0,4.9
+38,333382,SF704 (Zona2),573192868,airbnb.com.br/rooms/1152158148765691314,airbnb,True,active,0,,False,,13,4.2,4.6,3.2,4.5,4.5,4.5
+39,333384,GC707 (Zona1),1381764,airbnb.com.br/rooms/47919812,airbnb,True,active,0,,False,,53,4.5,4.6,4.9,4.7,4.5,4.6
+40,335691,PF118 (Zona3),573192722,airbnb.com.br/rooms/1150780404254343282,airbnb,True,active,0,,False,,2,4,4,4,4.5,5,5
+41,338928,AP204 (Zona1),573192868,airbnb.com.br/rooms/1260111411077916010,airbnb,True,active,0,,False,,22,4.6,4.7,4.9,4.6,4.7,4.6
+42,360582,NSC808 (Zona3),592964680,airbnb.com.br/rooms/1234800951406153545,airbnb,True,error,3,,True,,12,4.2,4.4,4.9,4.3,4.3,4.3
+43,363599,BI701 (Zona2),1381764,airbnb.com.br/rooms/53862622,airbnb,True,active,0,,False,,27,4.6,4.4,5,4.7,4.6,4.7
+44,363701,RD1003 (Zona4),592964680,airbnb.com.br/rooms/1234867441569845664,airbnb,True,active,0,,False,,7,4.7,5,5,5,5,5
+45,365584,LC2207 (Barra),573192722,airbnb.com.br/rooms/1410160335464843228,airbnb,True,error,2,,True,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+46,374387,STC905 (Zona3),592964680,airbnb.com.br/rooms/1234830590133673737,airbnb,True,active,2,,False,,8,4.4,4.6,4.6,4.4,4.3,4.4
+47,379238,NSC1104 (Zona3),66039372,airbnb.com.br/rooms/569522076904144948,airbnb,True,active,0,,False,,38,4.6,4.7,5.0,4.7,4.7,4.7
+48,379462,JC509 (Zona2),573192868,airbnb.com.br/rooms/1173358891159727636,airbnb,True,active,0,,False,,18,4.8,4.9,4.4,4.7,4.9,5
+49,383851,R201 (Zona1),1381764,airbnb.com.br/rooms/624725101116450867,airbnb,True,active,1,,False,,36,4.6,4.9,4.9,4.8,4.4,4.6
+50,386559,A303 (Zona2),66039372,airbnb.com.br/rooms/624755215649155697,airbnb,True,active,1,,False,,19,4.4,4.7,5,4.4,4.7,4.5
+51,386938,MVC205 (Zona4),573192868,airbnb.com.br/rooms/1152156883812572581,airbnb,True,active,1,,False,,14,4.2,4.5,4.5,4.3,4.4,4.2
+52,391791,RE406 (Zona1),66039372,airbnb.com.br/rooms/655014684626449148,airbnb,True,active,0,,False,,51,4.7,4.6,4.9,4.8,4.5,4.5
+53,391829,NSC1203 (Zona2),1381764,airbnb.com.br/rooms/655286210670267265,airbnb,True,active,0,,False,,55,4.7,4.5,4.8,4.7,4.9,4.6
+54,394400,JAC1 (Zona1),592964680,airbnb.com.br/rooms/1253727288148010875,airbnb,True,active,1,,False,,5,3.6,3.4,4.8,3.2,4.4,4.4
+55,394401,NSC1109 (Zona3),592964680,airbnb.com.br/rooms/1302919122811211337,airbnb,True,error,1,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+56,400221,NSC401 (Zona3),573192868,airbnb.com.br/rooms/1153066208298368859,airbnb,True,active,0,,False,,20,4.7,4.8,4.8,4.7,4.8,4.8
+57,400413,LC201 (Barra),592964680,airbnb.com.br/rooms/1410322480842676771,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+58,400414,DF115 (Zona3),1381764,airbnb.com.br/rooms/700062313845342958,airbnb,True,active,0,,False,,70,4.6,4.5,4.8,4.8,4.8,4.6
+59,400628,J804 (Zona1),573192868,airbnb.com.br/rooms/1152999201031527883,airbnb,True,active,0,,False,,10,4.5,4.9,5,4.9,4.7,4.8
+60,406118,VA202 (Zona1),1381764,airbnb.com.br/rooms/755811147378735839,airbnb,True,active,0,,False,,44,4.7,4.8,4.8,4.8,4.6,4.7
+61,406452,J303 (Zona1),1381764,airbnb.com.br/rooms/750054865782930633,airbnb,True,active,0,,False,,42,4.7,4.8,4.9,4.9,4.5,4.5
+62,407540,JN301 (Zona2),N/A,N/A,airbnb,False,error,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+63,409670,AM203 (Barra),1381764,airbnb.com.br/rooms/771069864193194667,airbnb,True,active,1,,False,,47,4.6,4.9,4.7,4.7,4.7,4.6
+64,409675,VP101A (Zona1),1381764,airbnb.com.br/rooms/778365372077249089,airbnb,True,active,0,,False,,30,4.4,4.6,5,4.5,4.3,4.4
+65,411478,BI204 (Zona2),1381764,airbnb.com.br/rooms/791144558592410891,airbnb,True,active,1,,False,,31,4.4,4.6,4.6,4.3,4.6,4.3
+66,415550,A801 (Zona2),1381764,airbnb.com.br/rooms/858764840348607673,airbnb,True,active,0,,False,,37,4.7,4.6,4.9,4.7,4.6,4.6
+67,417268,BR1307 (Zona3),1381764,airbnb.com.br/rooms/827560345266832669,airbnb,True,active,1,,False,,43,4.7,4.8,4.7,4.7,4.7,4.7
+68,417453,A1103 (Zona2),573192868,airbnb.com.br/rooms/1153005361529963093,airbnb,True,active,2,,False,,28,4.4,4.8,5,4.6,4.6,4.5
+69,419958,NSC605 (Zona3),66039372,airbnb.com.br/rooms/852252021314929608,airbnb,True,active,0,,False,,31,4.8,4.9,4.7,4.9,4.7,4.7
+70,419963,AP102 (Zona1),592964680,airbnb.com.br/rooms/1234850353713040146,airbnb,True,active,0,,False,,17,4.8,4.8,5,4.9,4.9,4.9
+71,421623,FA202 (Zona1),1381764,airbnb.com.br/rooms/902977559602534227,airbnb,True,active,0,,False,,19,4.5,4.7,5.0,4.8,4.5,4.4
+72,424997,STC303 (Zona3),573192868,airbnb.com.br/rooms/1153042967290712180,airbnb,True,active,0,,False,,14,4.6,4.9,4.9,4.8,4.9,4.9
+73,426236,SA201 (Barra),573192868,airbnb.com.br/rooms/1153009705241369235,airbnb,True,error,3,,True,,9,4,4.6,4.3,4.4,4.6,4.4
+74,428944,EL108 (Zona3),1381764,airbnb.com.br/rooms/924692796711677869,airbnb,True,active,0,,False,,7,3.7,4.4,4.3,3.6,4.3,4
+75,428946,SA508 (Barra),1381764,airbnb.com.br/rooms/933285714587318185,airbnb,True,active,0,,False,,17,4.5,4.6,4.5,4.7,4.4,4.4
+76,437467,BRX1005 (Zona4),1381764,airbnb.com.br/rooms/965097864349139813,airbnb,True,active,2,,False,,47,4.5,4.8,4.8,4.6,4.7,4.5
+77,438005,JC1012 (Zona2),573192868,airbnb.com.br/rooms/1153019735800985363,airbnb,True,active,0,,False,,26,4.7,4.8,4.9,4.8,5.0,4.8
+78,438436,FMS601 (Zona3),1381764,airbnb.com.br/rooms/966005550791692373,airbnb,True,active,0,,False,,53,4.8,4.9,4.9,4.8,4.7,4.7
+79,439304,VP501 (Zona1),1381764,airbnb.com.br/rooms/960157786518851748,airbnb,True,active,0,,False,,45,4.6,4.6,5.0,4.6,4.8,4.7
+80,442294,DU705 (Zona2),592964680,airbnb.com.br/rooms/1323138052278250498,airbnb,True,active,0,,False,,8,4.5,4.5,4.9,4.5,4.8,4.9
+81,442399,BR911 (Zona4),1381764,airbnb.com.br/rooms/1016701545155999194,airbnb,True,active,0,,False,,13,4.5,4.6,4.6,4.6,4.8,4.5
+82,442400,NS1B (Zona1),1381764,airbnb.com.br/rooms/974015219855931471,airbnb,True,active,0,,False,,35,4.6,4.7,4.9,4.7,4.4,4.7
+83,442401,NS101 (Zona1),592964680,airbnb.com.br/rooms/1305749544475787077,airbnb,True,active,1,,False,,17,4.2,4.5,4.4,4.1,4.2,4.7
+84,442838,RP1003 (Zona3),N/A,N/A,airbnb,False,active,0,,False,,1,4,4,4,4,2,4
+85,442840,NSC501B (Zona2),573192722,airbnb.com.br/rooms/1150791296395106669,airbnb,True,active,0,,False,,20,4.7,4.7,4.8,4.7,4.7,4.6
+86,443182,PP101 (Barra),573192868,airbnb.com.br/rooms/1153034101381290130,airbnb,True,active,0,,False,,30,4.5,4.6,4.8,4.5,4.6,4.5
+87,443183,PP102 (Barra),1381764,airbnb.com.br/rooms/1021635427628811739,airbnb,True,active,0,,False,,13,4.3,4.6,5,4.2,4.7,4.5
+88,443330,MVC1103 (Zona4),1381764,airbnb.com.br/rooms/1026150158191546843,airbnb,True,active,0,,False,,23,4.4,4.9,4.9,4.6,4.7,4.5
+89,443570,LM108 (Zona4),573192868,airbnb.com.br/rooms/1152983995700656528,airbnb,True,active,0,,False,,11,4.7,4.7,4.8,4.7,4.5,4.6
+90,443756,CV410 (Zona3),1381764,airbnb.com.br/rooms/1005839814307006760,airbnb,True,active,0,,False,,51,4.7,4.9,4.8,4.8,4.8,4.8
+91,444456,GRC701 (Zona4),1381764,airbnb.com.br/rooms/1000021346041295404,airbnb,True,active,1,,False,,39,4.7,4.9,4.8,4.9,4.8,4.6
+92,444899,VM201 (Zona1),573192868,airbnb.com.br/rooms/1153015264593174298,airbnb,True,active,1,,False,,31,4.7,4.8,4.9,4.7,4.7,4.5
+93,451396,PC204 (Zona3),1381764,airbnb.com.br/rooms/1039043268055335726,airbnb,True,active,0,,False,,50,4.8,4.8,4.8,4.9,4.8,4.7
+94,451907,NSC904 (Zona2),1381764,airbnb.com.br/rooms/1036270614627886298,airbnb,True,active,0,,False,,47,4.8,4.8,4.5,4.8,4.8,4.7
+95,452229,BR401 (Zona3),573192868,airbnb.com.br/rooms/1153024742692951360,airbnb,True,active,2,,False,,32,4.7,4.8,4.6,4.9,4.8,4.9
+96,452230,FMS502 (Zona3),1381764,airbnb.com.br/rooms/1035548398342201519,airbnb,True,error,2,,True,,46,4.6,4.8,4.8,4.8,4.6,4.6
+97,452493,PL804 (Zona2),1381764,airbnb.com.br/rooms/1160878636929722357,airbnb,True,active,1,,False,,37,4.8,4.8,4.8,4.7,4.5,4.6
+98,454630,SCT1202 (Zona4),573192722,airbnb.com.br/rooms/1150779891724606856,airbnb,True,active,1,,False,,30,4.4,4.5,4.7,4.5,4.5,4.4
+99,454936,NSC1209 (Zona2),1381764,airbnb.com.br/rooms/1049347935813907968,airbnb,True,active,0,,False,,38,4.8,4.9,4.8,4.9,4.7,4.6
+100,455568,NSC1004 (Zona4),1381764,airbnb.com.br/rooms/1111567726128252249,airbnb,True,active,1,,False,,28,4.5,4.7,4.8,4.6,4.3,4.3
+101,456930,AP302 (Zona1),1381764,airbnb.com.br/rooms/1049346139516039208,airbnb,True,active,2,,False,,32,4.5,4.8,4.9,4.7,4.1,4.6
+102,457603,SC602 (Zona3),1381764,airbnb.com.br/rooms/1064592025329272345,airbnb,True,active,0,,False,,52,4.8,4.9,4.6,4.8,4.7,4.6
+103,461111,CT404 (Zona4),1381764,airbnb.com.br/rooms/1148492841696977385,airbnb,True,active,0,,False,,15,4.7,4.9,4.9,4.7,5,4.6
+104,461985,SL501 (Zona2),1381764,airbnb.com.br/rooms/1075381613530642397,airbnb,True,active,0,,False,,39,4.7,4.8,4.9,4.7,4.6,4.8
+105,463086,BPremium T1 1208.4 (Barra),1381764,airbnb.com.br/rooms/47920759,airbnb,True,active,0,,False,,12,4.8,4.4,4.8,4.9,4.7,4.3
+106,463090,BPremium T3 0405.4 (Barra),1381764,airbnb.com.br/rooms/47920761,airbnb,True,active,0,,False,,6,3.2,3.2,4.7,3,4.3,4
+107,463091,BPremium T4 0405.3 (Barra),1381764,airbnb.com.br/rooms/47920762,airbnb,True,active,0,,False,,59,4.4,4.4,4.8,4.5,4.6,4.4
+108,465623,Salvador (ZonaX),659754543,airbnb.com.br/rooms/1289165828793334536,airbnb,True,active,0,,False,,3,3.3,3.3,3.3,3.3,3.7,3.3
+109,470135,BR904 (Zona3),1381764,airbnb.com.br/rooms/1121616037148669801,airbnb,True,active,0,,False,,56,4.8,4.9,4.9,4.9,4.8,4.8
+110,470137,STC504 (Zona3),592964680,airbnb.com.br/rooms/1405090449102936007,airbnb,True,error,2,,True,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+111,472326,RD1205 (Zona4),573192868,airbnb.com.br/rooms/1184182422894607353,airbnb,True,active,0,,False,,37,4.8,5.0,4.8,4.8,4.9,4.9
+112,475171,CDL1004 (Zona4),1381764,airbnb.com.br/rooms/1146310029283108633,airbnb,True,error,2,,True,,18,4.3,4.7,4.4,4.4,4.9,4.6
+113,475175,BR608 (Zona4),1381764,airbnb.com.br/rooms/1121616439323703146,airbnb,True,active,1,,False,,25,4.5,4.8,4.9,4.6,4.3,4.3
+114,483397,HG610 (Zona3),1381764,airbnb.com.br/rooms/1174019332332650198,airbnb,True,active,0,,False,,26,4.5,4.8,4.7,4.5,4.8,4.8
+115,486348,MFB302 (Zona3),592964680,airbnb.com.br/rooms/1244883148421690179,airbnb,True,active,0,,False,,16,4.8,5,4.6,4.8,4.6,4.8
+116,490095,Mangaratiba (ZonaX),659754543,airbnb.com.br/rooms/1289171203326605264,airbnb,True,active,0,,False,,1,4,4,5,3,5,4
+117,493244,MRF1307 (Zona4),573192868,airbnb.com.br/rooms/1218257092592757856,airbnb,True,active,0,,False,,16,4.8,4.9,4.9,4.9,5,4.9
+118,494425,GS501 (Zona4),592964680,airbnb.com.br/rooms/1237093927657580610,airbnb,True,active,0,,False,,10,4.5,4.6,4.7,4.3,5,4.9
+119,495700,SF228 (Zona2),592964680,airbnb.com.br/rooms/1244846390643756298,airbnb,True,active,1,,False,,15,4.4,4.5,4.8,4.6,4.5,4.4
+120,495940,NSC1003 (Zona3),592964680,airbnb.com.br/rooms/1239127250744492962,airbnb,True,active,0,,False,,19,4.6,4.7,4.8,4.7,4.7,4.7
+121,499251,CJ202 (Zona3),592964680,airbnb.com.br/rooms/1315924378713038986,airbnb,True,active,1,,False,,12,4.6,4.7,4.8,4.7,4.4,4.6
+122,499800,SA1005 (Barra),592964680,airbnb.com.br/rooms/1254263572801994473,airbnb,True,active,1,,False,,14,4.6,4.6,4.8,4.7,3.9,4.5
+123,500778,NS103 (Zona1),592964680,airbnb.com.br/rooms/1247204349228196570,airbnb,True,active,2,,False,,26,4.5,4.7,4.9,4.7,4.3,4.5
+124,501044,NSC205 (Zona3),592964680,airbnb.com.br/rooms/1254256844785255476,airbnb,True,active,0,,False,,24,4.8,4.9,4.9,4.9,4.6,4.9
+125,503771,BT302B (Zona1),592964680,airbnb.com.br/rooms/1318785168193940593,airbnb,True,active,1,,False,,6,3.5,4.2,4.5,4.5,4,3.3
+126,505728,NSC309 (Zona2),592964680,airbnb.com.br/rooms/1279003943899325225,airbnb,True,active,0,,False,,15,4.9,4.9,4.9,4.8,4.7,4.8
+127,506584,AV806 (Barra),592964680,airbnb.com.br/rooms/1294956585594530144,airbnb,True,active,0,,False,,18,4.9,4.9,4.7,4.9,4.8,4.9
+128,506585,PJ909 (Zona4),592964680,airbnb.com.br/rooms/1340744570312307432,airbnb,True,active,0,,False,,10,4.6,4.7,5,4.9,4.9,4.7
+129,506587,AP403 (Zona1),592964680,airbnb.com.br/rooms/1310094151524720179,airbnb,True,error,2,,True,,3,3,3.7,3.7,2.7,3.7,3
+130,507973,NSC1102 (Zona3),592964680,airbnb.com.br/rooms/1314591195028336609,airbnb,True,active,0,,False,,8,4.6,4.9,4.9,4.6,4.9,4.3
+131,507979,SR1502 (Zona4),592964680,airbnb.com.br/rooms/1335539277593734000,airbnb,True,active,0,,False,,2,3.5,5,4,5,4,3
+132,507992,M404 (Zona4),592964680,airbnb.com.br/rooms/1313740602249926859,airbnb,True,active,2,,False,,11,4.8,4.8,4.9,4.9,4,4.7
+133,508022,RB1701 (Zona4),592964680,airbnb.com.br/rooms/1335638721839172101,airbnb,True,active,0,,False,,4,4.5,5,4,4.8,4.5,4.8
+134,508025,PI502 (Zona4),592964680,airbnb.com.br/rooms/1304335486941235572,airbnb,True,active,0,,False,,13,4.5,4.7,4.9,4.7,4.8,4.7
+135,508230,STC202 (Zona3),592964680,airbnb.com.br/rooms/1313093465855425388,airbnb,True,active,2,,False,,8,4.4,4.5,4.5,4.5,3.8,4.1
+136,508458,FM211 (Zona3),592964680,airbnb.com.br/rooms/1318200710311542806,airbnb,True,active,2,,False,,12,4.5,4.3,4.8,4.8,4.6,4.4
+137,509305,NSC602 (Zona2),592964680,airbnb.com.br/rooms/1310894123874770462,airbnb,True,active,0,,False,,15,4.7,4.8,4.9,4.9,4.4,4.5
+138,510952,SP-P2003B (ZonaX),693909481,airbnb.com.br/rooms/1420396562870895096,airbnb,True,active,2,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+139,511158,BM802 (Zona1),592964680,airbnb.com.br/rooms/1318793814217383271,airbnb,True,active,0,,False,,1,5,5,4,5,5,5
+140,511552,CR-PJ-PR-Q9,665278507,airbnb.com.br/rooms/1303874265995522697,airbnb,True,active,0,,False,,10,4.6,4.6,4.9,4.6,4.6,4.6
+141,511553,AND61 (ZonaX),659754543,airbnb.com.br/rooms/1366022882032391036,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+142,512280,CR-PI-PR-Q23,665278507,airbnb.com.br/rooms/1316027505038993388,airbnb,True,active,0,,False,,25,4.8,4.7,4.8,4.8,4.8,4.8
+143,512285,CR-PI-SP-Q17,665278507,airbnb.com.br/rooms/1334245909686310052,airbnb,True,active,0,,False,,1,5,5,5,5,5,5
+144,512287,CR-PJ-SP-Q3,665278507,airbnb.com.br/rooms/1336365849666588077,airbnb,True,active,0,,False,,4,4.3,4.8,4.5,4,4.8,4
+145,512290,CR-PJ-STU-Q1,665278507,airbnb.com.br/rooms/1328368583973767021,airbnb,True,active,0,,False,,11,4.7,4.9,4.9,4.5,4.4,4.7
+146,512291,CR-PJ-FML-Q5,665278507,airbnb.com.br/rooms/1315992518888935655,airbnb,True,active,0,,False,,15,4.8,4.9,4.9,4.8,4.8,4.9
+147,512786,CR-PI-SP-Q18,665278507,airbnb.com.br/rooms/1336366137799986046,airbnb,True,active,0,,False,,3,4.7,5,5,5,5,5
+148,512787,CR-PI-SP-Q19,665278507,airbnb.com.br/rooms/1334239780291250742,airbnb,True,active,1,,False,,3,2.3,3.7,4,2.3,3,2.3
+149,512788,CR-PI-SP-Q20,665278507,airbnb.com.br/rooms/1334237851998872218,airbnb,True,active,0,,False,,13,4.9,5,4.8,5,4.9,4.8
+150,512789,CR-PI-SP-Q21,665278507,airbnb.com.br/rooms/1305099278873915281,airbnb,True,active,0,,False,,47,4.6,4.8,4.8,4.7,4.7,4.7
+151,512791,CR-PJ-SP-Q11,665278507,airbnb.com.br/rooms/1336366375757204048,airbnb,True,active,0,,False,,4,5,5,5,5,5,5
+152,512792,CR-PJ-SP-Q12,665278507,airbnb.com.br/rooms/1336366566444169949,airbnb,True,active,0,,False,,2,4,4.5,3.5,4.5,4.5,4
+153,512793,CR-PJ-SP-Q4,665278507,airbnb.com.br/rooms/1305035547623125147,airbnb,True,active,0,,False,,22,4.6,4.8,4.6,4.8,4.8,4.9
+154,512794,CR-PJ-SP-Q2,665278507,airbnb.com.br/rooms/1336366892441247036,airbnb,True,active,0,,False,,3,4.3,4.7,5,4.3,4.7,4.7
+155,512797,CR-PJ-CNJ-Q6/Q7,665278507,airbnb.com.br/rooms/1330638156516514426,airbnb,True,active,0,,False,,4,5,5,5,5,5,5
+156,512798,CR-PI-STA-Q16,665278507,airbnb.com.br/rooms/1335727859294372851,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+157,512799,CR-PI-STA-Q13,665278507,airbnb.com.br/rooms/1305035846328938047,airbnb,True,active,0,,False,,16,4.4,4.6,4.6,4.4,4.6,4.8
+158,512800,CR-PI-STA-Q14,665278507,airbnb.com.br/rooms/1336366611921057670,airbnb,True,active,0,,False,,7,5,5,5,4.9,5,4.9
+159,512801,CR-PI-STA-Q24,665278507,airbnb.com.br/rooms/1335728031022367543,airbnb,True,active,0,,False,,2,5,5,5,5,5,5
+160,512803,CR-PJ-STU-Q10,665278507,airbnb.com.br/rooms/1336366662224382308,airbnb,True,active,0,,False,,9,5,4.9,4.9,5,5,5
+161,512804,CR-PJ-STU-Q8,665278507,airbnb.com.br/rooms/1305035994691844733,airbnb,True,active,0,,False,,14,4.8,4.9,4.6,4.4,5,4.9
+162,512805,CR-PI-STU-Q15,665278507,airbnb.com.br/rooms/1331294416749951391,airbnb,True,active,0,,False,,6,4.3,4.8,5,4.3,4.3,4.5
+163,513061,MVC901 (Zona5),592964680,airbnb.com.br/rooms/1316011569202732862,airbnb,True,active,1,,False,,3,3.7,4.7,4.7,4.7,2,3.7
+164,513338,CR-PI-PR-Q22,665278507,airbnb.com.br/rooms/1335694658949368954,airbnb,True,active,0,,False,,3,4.7,4.3,5,5,4.7,5
+165,513648,NSC1011 (Zona3),592964680,airbnb.com.br/rooms/1340749047347494461,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+166,514666,SP-AN606 (ZonaX),659754543,airbnb.com.br/rooms/1340620878963149547,airbnb,True,active,1,,False,,2,2.5,3,4,1,2.5,1.5
+167,517862,SP-SJ504 (ZonaX),659754543,airbnb.com.br/rooms/1344973771908623839,airbnb,True,active,0,,False,,2,5,5,5,5,5,5
+168,517945,BC405 (Zona2),592964680,airbnb.com.br/rooms/1359455171055486714,airbnb,True,active,0,,False,,7,4.9,5,5,5,4.6,5
+169,520513,SB301 (Zona1),592964680,airbnb.com.br/rooms/1370941421556263620,airbnb,True,active,2,,False,,1,3,5,5,5,4,2
+170,522041,VLP412 (Zona4),592964680,airbnb.com.br/rooms/1355794743804270277,airbnb,True,active,0,,False,,2,4,5,5,4,5,3.5
+171,522042,J302 (Zona1),592964680,airbnb.com.br/rooms/1379637195486850159,airbnb,True,active,0,,False,,4,4.5,4.8,4.8,5,5,4.5
+172,524690,SP-A713 (ZonaX),659754543,airbnb.com.br/rooms/1380407581410540438,airbnb,True,active,0,,False,,5,4.8,4.8,4.8,4.8,4.6,4.6
+173,524778,IM712 (Zona3),592964680,airbnb.com.br/rooms/1366802007559870062,airbnb,True,active,0,,False,,4,5,5,4.5,4.8,4.5,4.3
+174,524811,IG - Solar do Campo (ZonaX),659754543,airbnb.com.br/rooms/1381226936870059313,airbnb,True,active,0,,False,,2,5,5,5,5,5,5
+175,525864,F709 (Zona4),592964680,airbnb.com.br/rooms/1395058094917869787,airbnb,True,active,0,,False,,3,5,4.7,5,5,5,4.3
+176,528890,AP801 (Zona1),592964680,airbnb.com.br/rooms/1396440098923989471,airbnb,True,active,0,,False,,1,5,4,5,5,4,5
+177,530245,SP-P1909A (ZonaX),659754543,airbnb.com.br/rooms/1424773329029100364,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+178,530509,ASA101 (Zona2),592964680,airbnb.com.br/rooms/1421946823800962366,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+179,533095,SP-P1604A (ZonaX),659754543,airbnb.com.br/rooms/1410864796631391380,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+180,533098,SP-P1504A (ZonaX),659754543,airbnb.com.br/rooms/1410864792920379914,airbnb,True,active,0,,False,,2,4,5,5,5,5,3
+181,533100,SP-P1609A (ZonaX),659754543,airbnb.com.br/rooms/1410844029001615257,airbnb,True,active,0,,False,,2,4.5,4,5,4.5,4,3.5
+182,533295,SP-P1610A (ZonaX),659754543,airbnb.com.br/rooms/1414445383545008811,airbnb,True,active,0,,False,,2,5,5,5,5,5,5
+183,533298,SP-P1611A (ZonaX),659754543,airbnb.com.br/rooms/1414435751888416813,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+184,533300,SP-P2308B (ZonaX),659754543,airbnb.com.br/rooms/1410248701417263067,airbnb,True,active,0,,False,,4,3.5,3.8,4.8,4.3,2.8,3.8
+185,534228,D405 (Zona4),592964680,airbnb.com.br/rooms/1410109446138412423,airbnb,True,active,0,,False,,1,5,5,5,5,5,5
+186,535079,AC1007 (Zona1),592964680,airbnb.com.br/rooms/1415985285507469082,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+187,539116,SP-P1208B (ZonaX),659754543,airbnb.com.br/rooms/1424778907268773890,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+188,539141,SP-P2402B (ZonaX),659754543,airbnb.com.br/rooms/1425483037289369037,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+189,548041,SP-P1607A (ZonaX),659754543,airbnb.com.br/rooms/1425470342730784142,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+190,548401,CR-PI-CNJ-Q13/Q16,665278507,airbnb.com.br/rooms/1412408881117315971,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+191,549512,GS1102 (Zona4),592964680,airbnb.com.br/rooms/1421075340794016659,airbnb,True,active,0,,False,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
