@@ -2,12 +2,13 @@ from cookies.login import Login
 from cookies.driver import Driver
 from crawler.portal_reviews.request import Portal_Reviews
 from crawler.portal_reviews.parser import AirbnbParser
-from load.storage.google_drive import Loader
+from load.google_drive import Loader
 from contract.schema import Validator_Airbnb
 from dotenv import load_dotenv
 import os
 
 _ = load_dotenv(override=True)
+
 def pipeline_json():
 
     driver = Driver().get_driver()
