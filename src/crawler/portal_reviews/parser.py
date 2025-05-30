@@ -1,8 +1,8 @@
+from datetime import datetime
 
-
-class AccommodationParser:
-    def __init__(self, accommodation: list):
-        self.accommodation = accommodation
+class AirbnbParser:
+    def __init__(self, accommodations: list):
+        self.accommodation = accommodations
 
     def reference(self):
         return self.accommodation.get('reference')
@@ -21,7 +21,7 @@ class AccommodationParser:
         if config:
             if config.get('accountId'):
                 return config.get('accountId')['value']
-            return 'N/A'
+            return None
     
     def listing_id(self):
         config = self.accommodation.get('config')
@@ -29,7 +29,8 @@ class AccommodationParser:
             if config.get('listingId'):
                 listing_id = config.get('listingId')['value']
                 return f'airbnb.com.br/rooms/{listing_id}'
-            return 'N/A'
+            return None
+        
     def status_publishment(self):
         status = self.accommodation['status']['publishment']
 
@@ -44,14 +45,12 @@ class AccommodationParser:
         
         return 'inactive'
 
-
-    
     def alerts(self):
         return self.accommodation['alerts'].get('count',0)
     
     def sync_alerts(self):
         sync_alerts = self.accommodation['alerts']['syncAlerts']
-        if sync_alerts['has'] == 'true':
+        if sync_alerts['has'] is True:
             return ", ".join(item["type"] for item in sync_alerts["value"])
         return ""
             
@@ -61,7 +60,7 @@ class AccommodationParser:
 
     def warnings_alerts(self):
         warnings_alerts = self.accommodation['alerts']['warnings']
-        if warnings_alerts['has'] == 'true':
+        if warnings_alerts['has'] is True:
             return ", ".join(item["type"] for item in warnings_alerts["value"])
         return ""
 
@@ -70,8 +69,8 @@ class AccommodationParser:
         scores = self.accommodation.get('scores', [])
         for item in scores:
             if item.get('type') == attribute:
-                return item.get(field, 'N/A')
-        return 'N/A'
+                return item.get(field, None)
+        return None
 
     
     def parse_accommodation(self):   
@@ -93,7 +92,8 @@ class AccommodationParser:
                 'location_value':self.generic_parser_reviews('location'),
                 'truthfulness_value':self.generic_parser_reviews('accuracy'),
                 'checkin_value':self.generic_parser_reviews('checkin'),
-                'communication_value':self.generic_parser_reviews('communication')
+                'communication_value':self.generic_parser_reviews('communication'),
+                'scrap_data': datetime.now().date().isoformat()
             }
             
         return parsed
