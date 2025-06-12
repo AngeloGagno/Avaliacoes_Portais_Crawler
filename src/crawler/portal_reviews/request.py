@@ -14,7 +14,5 @@ class Portal_Reviews:
             raise ConnectionError
         
     def url(self):
-        first_date = datetime.now() - timedelta(days=5)
-        end_date = datetime.now()
         return 'https://app.pineapples.com.br/channelmanager-api/v1/' \
     'accommodations?channel=bk_airbnb&limit=1000'

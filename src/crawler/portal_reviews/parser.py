@@ -32,7 +32,9 @@ class AirbnbParser:
             return None
         
     def status_publishment(self):
-        status = self.accommodation['status']['publishment']
+        status = self.accommodation['status'].get('publishment','inactive')
+        if status == 'inactive':
+            return 'inactive' 
 
         if status.get('error'):
             return 'error'

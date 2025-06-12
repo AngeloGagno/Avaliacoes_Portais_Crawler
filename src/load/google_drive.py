@@ -83,14 +83,14 @@ class Loader:
         return f'{self.portal_name}_{date}.parquet'
     
     def create_connection(self):
-        #try:
+        try:
             googleauth = GoogleAuth()
             googleauth.credentials = ServiceAccountCredentials.from_json_keyfile_dict(self.service_account, self.scopes)
             drive = GoogleDrive(googleauth)
             return drive
         
-        #except:
-        #    raise ConnectionError('Conexão Mal Sucedida. Revisar as credenciais')
+        except:
+            raise ConnectionError('Conexão Mal Sucedida. Revisar as credenciais')
     
         
     def create_file(self):
